@@ -1,1 +1,1 @@
-# numerical_methods_sem2
+# Numerical_Methods
